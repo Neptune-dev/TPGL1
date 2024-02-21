@@ -1,1 +1,6 @@
 Félix Ladislas
+
+Explication :
+Deux branches différentes ont été créées.
+La branche master ne contient que test.txt tandis que la branche mon_fichier contient ce même fichier et le fichier TP6_LadislasFelix,
+que je suis entrain d'éditer. 
